@@ -1,7 +1,7 @@
 # Weather API
 
-![npm](https://img.shields.io/npm/v/@alisherbegmatov/date-lib)
-![NPM](https://img.shields.io/npm/l/@alisherbegmatov/date-lib)
+![npm](https://img.shields.io/npm/v/@alisherbegmatov/weather-api)
+![NPM](https://img.shields.io/npm/l/@alisherbegmatov/weather-api)
 ![GitHub repo size](https://img.shields.io/github/repo-size/alisherbegmatov/date-lib)
 ![GitHub issues](https://img.shields.io/github/issues/alisherbegmatov/date-lib)
 
@@ -32,4 +32,3 @@ this repository is powered by [Open Weather Map API](https://openweathermap.org)
 - `lon`: Longitude
 - `apiKey`: Your API Key
 - `units`
- 
