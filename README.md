@@ -32,3 +32,4 @@ this repository is powered by [Open Weather Map API](https://openweathermap.org)
 - `lon`: Longitude
 - `apiKey`: Your API Key
 - `units`
+ 
