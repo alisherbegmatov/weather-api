@@ -2,8 +2,8 @@
 
 ![npm](https://img.shields.io/npm/v/@alisherbegmatov/weather-api)
 ![NPM](https://img.shields.io/npm/l/@alisherbegmatov/weather-api)
-![GitHub repo size](https://img.shields.io/github/repo-size/alisherbegmatov/date-lib)
-![GitHub issues](https://img.shields.io/github/issues/alisherbegmatov/date-lib)
+![GitHub repo size](https://img.shields.io/github/repo-size/alisherbegmatov/weather-api)
+![GitHub issues](https://img.shields.io/github/issues/alisherbegmatov/weather-api)
 
 ## Description
 
